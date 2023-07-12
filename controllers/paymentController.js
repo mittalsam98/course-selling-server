@@ -19,11 +19,11 @@ exports.checkout = async (req, res) => {
       error: 'You have already purchased the course'
     });
   }
+  try {
   const options = {
     amount: Number(req.body.price * 100),
     currency: 'INR'
   };
-  try {
     const order = await instance.orders.create(options);
     res.status(200).json({
       success: true,
