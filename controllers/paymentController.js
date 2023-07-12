@@ -24,7 +24,9 @@ exports.checkout = async (req, res) => {
     amount: Number(req.body.price * 100),
     currency: 'INR'
   };
-    const order = await instance.orders.create(options);
+  console.log(options);
+  const order = await instance.orders.create(options);
+  console.log(order);
     res.status(200).json({
       success: true,
       order
