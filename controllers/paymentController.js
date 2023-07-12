@@ -30,6 +30,7 @@ exports.checkout = async (req, res) => {
       order
     });
   } catch (e) {
+    console.log(e);
     res.status(500).json({ error: 'An error occurred while creating the course' });
   }
 };
