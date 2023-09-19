@@ -24,7 +24,7 @@ This link is for admin who can create course - [Admin Portal](https://courses-po
 - To run this project , pls check the `.env.example` file
 
 ## Screenshots
-![image](https://github.com/mittalsam98/Course-Selling-App/assets/42431274/6c83cb3c-03d6-4d14-86a6-91ea892ed767)
+![image](https://github.com/mittalsam98/course-selling-server/assets/42431274/8f369f28-1e3c-457e-a41b-53d1c7db19d4)
 
 ### Hi there 👋 I am Sachin, a full stack web and app developer. I love to build new things that excites me a lot.
 
