@@ -3,8 +3,8 @@
 `React JS`, `Tailwind CSS`, `Node JS`, `MongoDB`, `Razorpay` for payments
 
 ### Live preview of the project:
-This link is for Users only - https://courses-portal.netlify.app/ 
-This link is for admin who can create course - https://courses-portal.netlify.app/admin
+This link is for Users only - [User Portal](https://courses-portal.netlify.app/ )
+This link is for admin who can create course - [Admin Portal](https://courses-portal.netlify.app/admin)
 
 ### Frontend Repo
 [Github](https://github.com/mittalsam98/Course-Selling-App/
