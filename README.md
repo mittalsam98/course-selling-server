@@ -4,6 +4,7 @@
 
 ### Live preview of the project:
 This link is for Users only - [User Portal](https://courses-portal.netlify.app/ )
+
 This link is for admin who can create course - [Admin Portal](https://courses-portal.netlify.app/admin)
 
 ### Frontend Repo
